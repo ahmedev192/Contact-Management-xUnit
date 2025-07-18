@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36221.1 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contact-Managment-System", "Contact-Managment-System\Contact-Managment-System.csproj", "{441F04BB-B5A9-4184-BAB0-A05E26A6BBEF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contact_Managment_System", "Contact_Managment_System\Contact_Managment_System.csproj", "{441F04BB-B5A9-4184-BAB0-A05E26A6BBEF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contact-Management-Testing", "Contact-Management-Testing\Contact-Management-Testing.csproj", "{FBC9BB0D-31A6-4BFF-A7FF-35BCA143BBA4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contact_Management_Testing", "Contact_Management_Testing\Contact_Management_Testing.csproj", "{FBC9BB0D-31A6-4BFF-A7FF-35BCA143BBA4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
